@@ -1,0 +1,3 @@
+﻿  SIDC.cpp
+C:\Users\pc\Desktop\sfml\projeler\SIDC\SIDC\SIDC.cpp(15,9): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  SIDC.vcxproj -> C:\Users\pc\Desktop\sfml\projeler\SIDC\Debug\SIDC.exe
